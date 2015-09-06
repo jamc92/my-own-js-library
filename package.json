@@ -1,0 +1,26 @@
+{
+  "name": "my-own-js-library",
+  "version": "1.0.0",
+  "description": "First js library of my life",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamc92/my-own-js-library.git"
+  },
+  "keywords": [
+    "random",
+    "library"
+  ],
+  "author": "Javier Madrid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamc92/my-own-js-library/issues"
+  },
+  "homepage": "https://github.com/jamc92/my-own-js-library",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
